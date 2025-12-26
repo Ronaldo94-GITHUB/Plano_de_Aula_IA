@@ -1,5 +1,7 @@
 # Plano_de_Aula_IA
 
+! [capa do projeto](ia.png)
+
 📑 Estrutura por Etapas
 1. Introdução
 Título do Projeto: Plano_de_Aula_IA
