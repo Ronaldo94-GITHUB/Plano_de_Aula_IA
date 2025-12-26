@@ -1,7 +1,7 @@
 # Plano_de_Aula_IA
 
 
-![capa do projeto](Copiloto_20251226_094224.png)
+![capa do projeto](ia3.png)
 
 
 📑 Estrutura por Etapas
