@@ -1,6 +1,8 @@
 # Plano_de_Aula_IA
 
-! [capa do projeto](ia.png)
+
+![capa do projeto](ia.png)
+
 
 📑 Estrutura por Etapas
 1. Introdução
